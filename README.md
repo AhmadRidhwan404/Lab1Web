@@ -25,7 +25,8 @@ Lab1Web/
 │   └── profil.jpg
 └── README.md
 ```
-<img width="228" height="137" alt="Screenshot 2026-09-23 190549" src="https://github.com/user-attachments/assets/83af2747-1062-467d-8a2b-36e83ea460e9" />
+<img width="960" height="960" alt="Google_Chrome_icon_(February_2022) svg" src="https://github.com/user-attachments/assets/01c426b4-28ef-4278-aebd-88c9cdcdce00" />
+
 
 
 ---
